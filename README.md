@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MoizeAhsan.
 - 👀 I’m interested in AI, AR/VR, Web Development.
 - 🏭 I have been working in the industry as a Python Engineer.
-- 🌱 I’m currently learning Node.js and React.js
+- 🌱 I’m currently learning Node.js, React.js and Vue.js
 - 📫 How to reach me: moize.ahsan@hotmail.com
 
 
