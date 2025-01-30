@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MoizeAhsan.
 - 👀 I’m interested in AI, Web Development and all other things that technology can solve!
 - 🏭 I have been working in the industry as a Python Engineer.
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust and Golang.
 - 📫 How to reach me: moize.ahsan@hotmail.com
 
 
